@@ -41,6 +41,7 @@ We are a team of developers, designers, and innovators. Here’s a list of our m
 3. To build meaningful projects that tackle real-life problems in areas such as **education, health, and technology accessibility**.
 
 
+<!--
 ## 📖 Get Started
 We welcome contributors! To get started:
 1. Clone this repository: `git clone https://github.com/LikeLion-UW-Madison/repo-name.git`
@@ -56,6 +57,7 @@ If you'd like to contribute to our projects:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
+-->
 
 
 We welcome new ideas and fresh perspectives, so feel free to open an issue or reach out!
