@@ -26,7 +26,7 @@ We work with a variety of programming languages and technologies to bring our id
 - **Frontend:** HTML, CSS, JavaScript, React, React Native
 - **Backend:** Python, Flask, Django, Node.js
 - **Databases:** MySQL, MongoDB
-- **Tools:** Git, GitHub, VSCode, Postman, Pycharm, Jupyter Notebook, etc.
+- **Tools:** Git, GitHub, VSCode, Postman, Figma, Pycharm, Jupyter Notebook, etc.
 
 <!--
 ## 👥 Meet Our Team
